@@ -1,0 +1,13 @@
+@import "~antd/dist/antd.css";
+
+.App {
+    text-align: center;
+}
+
+body {
+    /* background-color: #08979c; */
+}
+
+body::placeholder {
+    color: #13c2c2;
+}
